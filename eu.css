@@ -1,0 +1,44 @@
+*{
+    background-color: #b4c8ea;
+}
+.container{
+    margin-top: 30px;
+}
+
+.navbar-brand{
+    font-style: italic;
+    font-size: larger;
+}
+
+#navbarNav{
+    background-color: #f7cac9;
+}
+
+.nav-item{
+    background-color: #f7cac9;
+}
+
+.navbar.navbar-expand-lg.navbar-light{
+    background-color: #f7cac9;
+}
+
+.form-inline.my-2.my-lg-0{
+    background-color: #f7cac9;
+    position: relative;
+    margin-left: 350px;
+}
+
+.btn{
+    border-color:#b4c8ea;
+    background-color: #b4c8ea;
+    
+}
+
+.carousel-inner{
+    max-width: 950px;
+    margin: auto;
+}
+
+.carousel-indicators{
+    background-color: transparent;
+}
