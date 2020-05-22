@@ -1,10 +1,10 @@
 *{
     background-color: #b4c8ea;
 }
-.container{
-    margin-top: 30px;
-}
 
+.navbar{
+    margin-top: 20px;
+}
 .navbar-brand{
     font-style: italic;
     font-size: larger;
@@ -29,16 +29,106 @@
 }
 
 .btn{
-    border-color:#b4c8ea;
+    border-color:#92a8d1;
     background-color: #b4c8ea;
-    
+}
+
+a.btn:hover{
+    background-color: #92a8d1;
+}
+
+.container{
+    margin-top: 20px;
+    background-color: transparent;
+}
+.container1{
+    margin-top: 10px;
 }
 
 .carousel-inner{
-    max-width: 950px;
+    max-width: 1000px;
     margin: auto;
 }
 
 .carousel-indicators{
     background-color: transparent;
+}
+
+<!--Daqui pra baixo são instruções específicas para sobre-mim.hmtl-->
+
+p{
+    text-align: justify;
+}
+
+.card{
+    float: left;
+    margin-left: 0px;
+    margin-top: 6px;
+    border-color: #f7cac9;
+    background-color: #f7cac9;
+}
+
+.card-title{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    background-color: #f2ddde;
+}
+
+.card-img-top{
+    border-top-right-radius: calc(.5rem - 1px);
+    border-top-right-radius: calc(.5rem - 1px);
+}
+.card-body{
+    border-bottom-right-radius: calc(.5rem - 1px);
+    border-bottom-left-radius: calc(.5rem - 1px);
+    text-align: justify;
+    background-color: #f2ddde;
+}
+
+.list-group-item{
+    background-color: #f2ddde;
+    text-align: left;
+    margin-left: -21px;
+    margin-right: -21px;
+    border-color: #f7cac9;
+    font-style: oblique;
+}
+
+.text-box{
+    float: right;
+    text-align: justify;
+}
+
+.btn.btn-{
+    background-color: #b4c8ea;
+    margin-top: 14px;
+    text-align: center;
+    margin-left: 14px;
+}
+
+a.btn.btn-:hover{
+    background-color: #92a8d1;
+}
+
+<!--Daqui pra baixo são instruções específicas para contato.hmtl-->
+
+.btn.btn-2{
+    margin-top: 30px;
+    text-align: center;
+}
+
+a.btn.btn-2:hover{
+    background-color: #92a8d1;
+    border-color: #f7cac9;
+}
+
+.form-control{
+    background-color: transparent;
+    border-color: #f7cac9;
+}
+
+.form-control.mr-sm-2{
+    background-color: #dae1ec;
+    border-color: #92a8d1;
 }
