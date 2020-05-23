@@ -2,9 +2,13 @@
     background-color: #b4c8ea;
 }
 
+
+    <Navbar configs>
+
 .navbar{
-    margin-top: 20px;
+    margin-top: 0%;
 }
+
 .navbar-brand{
     font-style: italic;
     font-size: larger;
@@ -24,8 +28,8 @@
 
 .form-inline.my-2.my-lg-0{
     background-color: #f7cac9;
-    position: relative;
-    margin-left: 350px;
+    margin-left: 27%;
+    
 }
 
 .btn{
