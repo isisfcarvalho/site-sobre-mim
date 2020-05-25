@@ -138,19 +138,6 @@ a.btn.btn-2:hover{
     border-color: #92a8d1;
 }
 
-@media (max-width: 991px){
-    input.form-control{ 
-       margin-left: -30%;
-    }
-
-}
-
-@media (max-width: 395px){
-    input.form-control{ 
-        margin-left: -40%;
-     }
-}
-
 @media (min-width: 769px){
     .text-box{
         float: right;
